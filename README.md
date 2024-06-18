@@ -5,13 +5,9 @@ The goal is to use a DataFrame in Python, perform a cursory inspection of the Ne
 
 Part 1: Understand the situation
 
-Prepare to understand and organize the provided taxi cab dataset and information.
 Part 2: Understand the data
-
-Create a pandas dataframe for data learning, future exploratory data analysis (EDA), and statistical activities.
-
-Compile summary information about the data to inform next steps.
 
 Part 3: Understand the variables
 
-Use insights from your examination of the summary data to guide deeper investigation into specific variables.
+# Summary and Conclusions:
+After looking at the dataset, the two variables most likely to help build a predictive model for taxi ride fares are total_amount and trip_distance because those variables show a picture of a taxi cab ride.
